@@ -1,9 +1,8 @@
-"author" : { "author": "abdelhak",
 
-},
 {
 	
 	"name": "fcc-learn-npm-package-json",
+	"author": "abdelhak",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
